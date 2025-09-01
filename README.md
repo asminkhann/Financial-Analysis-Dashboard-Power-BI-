@@ -13,7 +13,7 @@ The dashboard is based on sample financial transaction data, including revenue, 
 *Note: Only demo data is used – no confidential information included.*  
 
 ## Dashboard Preview
-![Dashboard Screenshot](screenshot.png)  
+![Dashboard Screenshot](screenshot1.1.png)  
 
 ## Key Insights
 - **Total Sales:** 118.73M  
